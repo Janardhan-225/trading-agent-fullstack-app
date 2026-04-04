@@ -1,0 +1,25 @@
+# Core dependencies
+python-dotenv>=1.0.0
+pandas>=2.0.0
+requests>=2.31.0
+
+# LangGraph for workflow
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# ML/AI (FinBERT)
+torch>=2.0.0
+transformers>=4.30.0
+
+# Data sources
+yfinance>=0.2.30
+feedparser>=6.0.0
+
+# Database
+psycopg2-binary>=2.9.0
+
+# CLI
+rich>=13.0.0
+
+# Utilities
+pytz>=2024.1
